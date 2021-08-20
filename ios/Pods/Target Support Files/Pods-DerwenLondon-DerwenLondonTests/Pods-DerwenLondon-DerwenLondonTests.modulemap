@@ -1,0 +1,6 @@
+module Pods_DerwenLondon_DerwenLondonTests {
+  umbrella header "Pods-DerwenLondon-DerwenLondonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

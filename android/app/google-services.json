@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813109740392",
+    "project_id": "dl-app-ac960",
+    "storage_bucket": "dl-app-ac960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813109740392:android:bd0b26b5827bae26668cdd",
+        "android_client_info": {
+          "package_name": "com.derwenlondon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813109740392-ncacefoglarbrg3iiaebhpkffdgka0fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdm5GdlL4AotABD94qMOobl7FbZsiYww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813109740392-ncacefoglarbrg3iiaebhpkffdgka0fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

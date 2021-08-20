@@ -1,0 +1,14 @@
+com/derwenlondon/MainActivity.java
+ com.derwenlondon.MainActivity
+com/derwenlondon/MainApplication.java
+ com.derwenlondon.MainApplication
+ com.derwenlondon.MainApplication$1
+com/derwenlondon/ReactNativeFlipper.java
+ com.derwenlondon.ReactNativeFlipper
+ com.derwenlondon.ReactNativeFlipper$1
+ com.derwenlondon.ReactNativeFlipper$2
+ com.derwenlondon.ReactNativeFlipper$2$1
+com/derwenlondon/BuildConfig.java
+ com.derwenlondon.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
